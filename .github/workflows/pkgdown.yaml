@@ -44,4 +44,3 @@ jobs:
           clean: true
           branch: gh-pages
           folder: docs
-          target-folder: pkgdown
