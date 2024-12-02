@@ -1,4 +1,4 @@
-# sgplot (development version)
+# sgplot 0.5.0
 
 # sgplot 0.4.0
 
