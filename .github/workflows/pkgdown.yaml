@@ -43,4 +43,5 @@ jobs:
         with:
           clean: true
           branch: gh-pages
-          target-folder: docs
+          folder: docs
+          target-folder: pkgdown
